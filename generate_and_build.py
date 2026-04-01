@@ -7,6 +7,7 @@ JSON-LD構造化データ（BlogPosting / FAQPage / BreadcrumbList）対応。
 import sys
 import os
 import json
+import re
 import logging
 from datetime import datetime
 from pathlib import Path
@@ -20,6 +21,22 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+
+def _extract_json(text):
+    """Gemini応答からJSONを抽出する（thinkingモデル対応）"""
+    # コードフェンス内のJSONを抽出
+    fence_matches = re.findall(r'```(?:json)?\s*\n?(.*?)```', text, re.DOTALL)
+    for block in fence_matches:
+        block = block.strip()
+        if block and (block.startswith("{") or block.startswith("[")):
+            return block
+
+    # JSONオブジェクトを直接検索
+    match = re.search(r'\{[^{}]*"category"[^{}]*"keyword"[^{}]*\}', text, re.DOTALL)
+    if match:
+        return match.group(0)
+
+    return text
 
 def run(config, prompts=None):
     """メイン処理: キーワード選定 → 記事生成 → SEO最適化 → サイトビルド"""
@@ -54,15 +71,10 @@ def run(config, prompts=None):
             model=config.GEMINI_MODEL, contents=prompt
         )
         response_text = response.text.strip()
+        logger.info("Gemini raw (first 200): %s", response_text[:200])
 
-        if "```" in response_text:
-            response_text = response_text.split("```")[1]
-            if response_text.startswith("json"):
-                response_text = response_text[4:]
-            response_text = response_text.strip()
-
-        data = json.loads(response_text)
-        # Geminiがリストで返す場合があるので先頭要素を取得
+        json_text = _extract_json(response_text)
+        data = json.loads(json_text)
         if isinstance(data, list):
             data = data[0]
         category = data["category"]
