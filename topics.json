@@ -1,53 +1,194 @@
 {
   "Typeless 使い方": [
-    {"keyword": "Typelessとは AI音声入力の始め方2026", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless無料版でできること 週8000語", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless インストール方法 Mac Windows", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 初期設定 おすすめカスタマイズ", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless ショートカットキー 使いこなし術", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typelessとは AI音声入力の始め方2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless無料版でできること 週8000語",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless インストール方法 Mac Windows",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 初期設定 おすすめカスタマイズ",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless ショートカットキー 使いこなし術",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Typeless 料金・プラン": [
-    {"keyword": "Typeless Free vs Pro比較 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless $12月額の価値はある？", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 無料プラン 制限まとめ", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 年間プラン お得な契約方法", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless Free vs Pro比較 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless $12月額の価値はある？",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 無料プラン 制限まとめ",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 年間プラン お得な契約方法",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Typeless vs Wispr Flow": [
-    {"keyword": "Typeless vs Wispr Flow 徹底比較 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless vs Aqua Voice どっちがいい", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless vs macOS音声入力 精度比較", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless vs Google音声入力 機能差", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless vs Wispr Flow 徹底比較 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless vs Aqua Voice どっちがいい",
+      "priority": "high",
+      "status": "done",
+      "done_at": "2026-05-05T11:43:47.225365"
+    },
+    {
+      "keyword": "Typeless vs macOS音声入力 精度比較",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless vs Google音声入力 機能差",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Typeless 最新ニュース": [
-    {"keyword": "Typeless 100言語対応の実力を検証", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless HIPAA GDPR準拠 セキュリティ解説", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 最新アップデート情報 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless Product Hunt 評価まとめ", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless 100言語対応の実力を検証",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless HIPAA GDPR準拠 セキュリティ解説",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 最新アップデート情報 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless Product Hunt 評価まとめ",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "AI音声ディクテーション": [
-    {"keyword": "Typeless フィラーワード自動除去が神", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless ウィスパーモードとは 静かに音声入力", "priority": "high", "status": "pending"},
-    {"keyword": "AIディクテーション キーボード不要の時代", "priority": "medium", "status": "pending"},
-    {"keyword": "音声入力 生産性 タイピング3倍速", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless 音声認識精度 実測レビュー", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless フィラーワード自動除去が神",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless ウィスパーモードとは 静かに音声入力",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "AIディクテーション キーボード不要の時代",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "音声入力 生産性 タイピング3倍速",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 音声認識精度 実測レビュー",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Typeless 活用テクニック": [
-    {"keyword": "Typeless アプリ別トーン自動切替の設定方法", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless リアルタイム翻訳機能 使い方", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless Slack連携 ビジネス活用術", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless ブログ執筆 音声で記事作成", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless メール作成 時短テクニック", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless アプリ別トーン自動切替の設定方法",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless リアルタイム翻訳機能 使い方",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless Slack連携 ビジネス活用術",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless ブログ執筆 音声で記事作成",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless メール作成 時短テクニック",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "音声入力ツール比較": [
-    {"keyword": "AI音声入力ツール5社比較 2026年版", "priority": "high", "status": "pending"},
-    {"keyword": "音声入力 おすすめ ランキング 2026", "priority": "high", "status": "pending"},
-    {"keyword": "プログラマー向け音声入力ツール比較", "priority": "medium", "status": "pending"},
-    {"keyword": "ライター向け音声入力 最強ツール", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "AI音声入力ツール5社比較 2026年版",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "音声入力 おすすめ ランキング 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "プログラマー向け音声入力ツール比較",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "ライター向け音声入力 最強ツール",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Typeless 多言語対応": [
-    {"keyword": "Typeless 日本語音声入力の精度検証", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 英語 日本語 リアルタイム翻訳", "priority": "high", "status": "pending"},
-    {"keyword": "Typeless 中国語 韓国語 アジア言語対応", "priority": "medium", "status": "pending"},
-    {"keyword": "Typeless 多言語会議 議事録作成", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Typeless 日本語音声入力の精度検証",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 英語 日本語 リアルタイム翻訳",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 中国語 韓国語 アジア言語対応",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Typeless 多言語会議 議事録作成",
+      "priority": "medium",
+      "status": "pending"
+    }
   ]
 }

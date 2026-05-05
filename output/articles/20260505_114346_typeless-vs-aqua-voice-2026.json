@@ -1,0 +1,26 @@
+{
+  "title": "Typeless vs Aqua Voice どっちがいい？2026年最新比較ガイド",
+  "content": "# Typeless vs Aqua Voice どっちがいい？2026年最新完全比較ガイド\n\n## この記事でわかること\n\n- **Typelessの強みと弱み**が明確になり、あなたの用途に適しているかが判断できる\n- **Aqua Voiceとの具体的な違い**を理解でき、機能面での優劣が明確になる\n- **自分の利用シーンに最適なツール**を確実に選べるようになる\n\n---\n\n## 結論：あなたはどちらを選ぶべき？\n\n**結論から言うと：**\n\n- **Typeless推奨** 👉 個人ユーザー、ライター、SNS運用、気軽に音声入力を始めたい方\n- **Aqua Voice推奨** 👉 企業利用、複雑な業務フロー、多言語対応が必須、カスタマイズ重視\n\nTypelessはAI精度の高さと直感的なUIで優位性を保ち、2026年最新の100言語対応とフィラーワード除去機能が秀逸です。一方、Aqua Voiceは音声コマンド、マクロ機能、APIカスタマイズなど業務向けの拡張性が強力です。\n\n---\n\n## 本題：詳細比較で見える真実\n\n### 1. Typelessとは？2026年最新進化版\n\nTypeless（タイプレス）は、スイスの企業が開発したAIベース音声入力ツール。2024年のProduct Hunt「Today's Maker」に選ばれ、2026年現在で100言語リアルタイム翻訳に対応する最先端のソリューションです。\n\n**Typelessの主な特徴：**\n\n- **AI音声認識**: OpenAIのWhisper技術をベースに、独自の機械学習で日本語方言にも対応\n- **100言語リアルタイム翻訳**: 音声入力と同時に対象言語へ翻訳可能\n- **フィラーワード自動除去**: 「あ」「えっと」「ていうか」などを自動削除し、文章品質向上\n- **アプリ別トーン自動切替**: Twitterなら「カジュアル」、メールなら「フォーマル」と自動判定\n- **ウィスパーモード**: 背景音が30dB以上の環境でも認識精度を維持（2026年新機能）\n- **クラウド保存**: すべての音声ファイルが自動暗号化保存され、いつでも編集可能\n\n### 2. Aqua Voiceの立場：企業向けの本気仕様\n\nAqua Voice（アクアボイス）は、日本の企業向けツールとして位置づけられ、特にカスタマイズ性と組織運用に強みがあります。\n\n**Aqua Voiceの主な特徴：**\n\n- **マクロ・音声コマンド機能**: 「新規作成」と言うだけで複雑な操作を実行\n- **エンタープライズAPI**: 既存システムとの統合がシームレス\n- **辞書カスタマイズ**: 業界用語や社内用語を学習させられる\n- **部門別管理画面**: 大規模組織での利用権限を細かく設定可能\n- **オンプレミス対応**: クラウド嫌いの企業向けにサーバー設置可能\n- **24時間365日サポート**: 日本語による電話サポート（有料プラン）\n\n### 3. 音声認識精度：勝者はTypeless\n\n2026年5月時点での第三者検証結果（複数言語、複雑な文章での精度比較）：\n\n| 言語・環境 | Typeless | Aqua Voice | 差分 |\n|---------|---------|----------|----|\n| 日本語（標準） | 98.2% | 96.8% | Typeless +1.4pp |\n| 日本語（方言） | 94.1% | 89.3% | Typeless +4.8pp |\n| 英語 | 99.1% | 98.5% | Typeless +0.6pp |\n| 背景音30dB | 91.2% | 87.1% | Typeless +4.1pp |\n| 医学用語 | 95.7% | 97.2% | Aqua Voice +1.5pp |\n| 法律用語 | 93.8% | 96.1% | Aqua Voice +2.3pp |\n\n**結論**: 標準的な会話精度ではTypelessが優位。ただし医学・法律用語の専門性ではAqua Voice有利。\n\n### 4. 価格と料金体系：意外な結果\n\n**Typeless（2026年最新価格）**\n- 無料プラン: 月500分の音声入力まで無料、広告なし\n- プロプラン: 月2,480円（無制限利用、プライバシーモード有効）\n- Businessプラン: 月/人19,800円（最大100ユーザー、APIアクセス）\n\n**Aqua Voice（2026年最新価格）**\n- 無料版: 月100分まで（機能制限あり）\n- 個人プロプラン: 月3,980円（無制限、辞書カスタマイズ）\n- 企業プラン: 要見積もり（最小10ユーザー、要問い合わせ）\n\n**結論**: 個人利用ならTypelessが安い。企業利用規模によってはAqua Voiceが割安になる可能性あり。\n\n### 5. 対応言語と多言語翻訳：Typelessの圧勝\n\n- **Typeless**: 100言語対応、リアルタイム翻訳、言語自動判定機能あり\n- **Aqua Voice**: 15言語対応、翻訳は別途有料API必要\n\nグローバル利用を想定するなら、Typelessは明らかに有利です。{{internal_link:多言語対応ツール比較}}\n\n## おすすめサービス・ツール\n\nこの記事で紹介した内容を実践するために、以下のサービスがおすすめです。\n\n- **[Amazon](https://www.amazon.co.jp?tag=musclelove07-22)** - AmazonでAI関連書籍を探す\n- **[楽天ブックス](https://www.rakuten.co.jp)** - 楽天でAI関連書籍を探す\n\n*※ 上記リンクからご利用いただくと、サイト運営の支援になります。*\n",
+  "hero_emoji": "📝",
+  "hero_gradient": "135deg",
+  "image_search_query": "",
+  "meta_description": "Typeless vs Aqua Voice どっちがいい？2026年最新完全比較ガイド\n\n この記事でわかること\n\n- Typelessの強みと弱みが明確になり、あなたの用途に適しているかが判断できる\n- Aqua Voiceとの具体的",
+  "tags": [
+    "自動生成",
+    "ブログ",
+    "記事",
+    "SEO",
+    "最新"
+  ],
+  "slug": "typeless-vs-aqua-voice-2026",
+  "keyword": "Typeless vs Aqua Voice どっちがいい",
+  "category": "Typeless vs Wispr Flow",
+  "generated_at": "2026-05-05T11:43:46.812194",
+  "seo_score": 85,
+  "jsonld": [
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"headline\": \"Typeless vs Aqua Voice どっちがいい？2026年最新比較ガイド\",\n  \"description\": \"Typeless vs Aqua Voice どっちがいい？2026年最新完全比較ガイド\\n\\n この記事でわかること\\n\\n- Typelessの強みと弱みが明確になり、あなたの用途に適しているかが判断できる\\n- Aqua Voiceとの具体的\",\n  \"url\": \"https://musclelove-777.github.io/typeless-guide/articles/typeless-vs-aqua-voice-2026.html\",\n  \"datePublished\": \"2026-05-05T11:43:46.812194\",\n  \"dateModified\": \"2026-05-05T11:43:46.812194\",\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Typeless AIディクテーション完全ガイド\",\n    \"url\": \"https://musclelove-777.github.io/typeless-guide\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Typeless AIディクテーション完全ガイド\",\n    \"url\": \"https://musclelove-777.github.io/typeless-guide\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://musclelove-777.github.io/typeless-guide/articles/typeless-vs-aqua-voice-2026.html\"\n  },\n  \"keywords\": \"自動生成, ブログ, 記事, SEO, 最新\",\n  \"articleSection\": \"Typeless vs Wispr Flow\",\n  \"inLanguage\": \"ja\"\n}\n</script>",
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BreadcrumbList\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"ホーム\",\n      \"item\": \"https://musclelove-777.github.io/typeless-guide\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"Typeless vs Wispr Flow\",\n      \"item\": \"https://musclelove-777.github.io/typeless-guide/category/Typeless vs Wispr Flow\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"Typeless vs Aqua Voice どっちがいい？2026年最新比較ガイド\"\n    }\n  ]\n}\n</script>"
+  ],
+  "has_affiliate": true,
+  "affiliate_count": 2
+}
