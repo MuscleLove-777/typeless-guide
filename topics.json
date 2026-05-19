@@ -85,7 +85,8 @@
     {
       "keyword": "Typeless 最新アップデート情報 2026",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-19T10:00:08.086332"
     },
     {
       "keyword": "Typeless Product Hunt 評価まとめ",
